@@ -1,3 +1,6 @@
+'''Howdy!
+I wrote a python script called "add_2_numbers.py" to play around with importing my own code into other projects. 
+However, whenever I try to run the program, python can't find the file I just wrote! Can you help me please?'''
 import add_2_numbers
 
 def main():
