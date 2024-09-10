@@ -1,4 +1,6 @@
-'''Hello!
+'''
+Hello!
+
 I am trying to write a program that will ask the user for their name. After I ask the user for
 their name, I want to ask what their favorite color is. I want to make sure the user's color
 is read in lower case, that way the program won't have any issues reading it. However, my code
