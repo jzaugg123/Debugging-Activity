@@ -1,7 +1,10 @@
-'''Hey!
+'''
+Hey!
+
 I'm trying to make a program that will make a .txt file, ask the user (who is a teacher) for
 their name, the class they teach, and how long they teach for. Finally, I want the program to 
-add that info to the .txt file. However, everything feels broken. Can you help me please?'''
+add that info to the .txt file. However, everything feels broken. Can you help me please?
+'''
 
 def main():
     #Creates a file called "Teacher_file.txt" in the directory that your program is in.
